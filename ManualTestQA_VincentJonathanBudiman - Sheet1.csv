@@ -1,0 +1,33 @@
+Id,Scenario,Description,Test Steps,Preconditions,Case Type,Test data,Expected Results,Actual results,Status
+TC_01,Semua data yang dimasukan sudah sesuai dengan ketentuan,Jika semua data yang dimasukan sudah sesuai dengan ketentuan akan masuk ke merchant application,Masukan nama depan dan belakang,User di halaman Register,Postive,"nama depan:""Vincent"" Nama belakang ""Jonathan Budiman""",Dilanjutkan ke halaman merchant application,As expected,Passed
+,,,Masukan email,,,Email:vinbud777@gmail.com,,,
+,,,Masukan password,,,Password:Vincent123@,,,
+,,,Masukan company name,,,Company: UMN,,,
+,,,masukan nomor telpon,,,Nomor Telpon: 085966395855,,,
+,,,Masukan negara dan provinsi,,,Negara: Indonesia Provisi: Jabar,,,
+,,,Click check box,,,,,,
+,,,click button next step,,,,,,
+TC_02,"Semua data yang dimasukan sudah sesuai dengan ketentuan, kecuali email",Jika email yang dimasukan tidak sesuai dengan ketentuan akan memunculkan allert box,Masukan nama depan dan belakang,User di halaman Register,Negative,"nama depan:""Vincent"" Nama belakang ""Jonathan Budiman""",Memunculkan Allert,As expected,Passed
+,,,Masukan email yang salah,,,Email:aydyad,,,
+,,,Masukan password,,,Password:Vincent123@,,,
+,,,Masukan company name,,,Company: UMN,,,
+,,,masukan nomor telpon,,,Nomor Telpon: 085966395855,,,
+,,,Masukan negara dan provinsi,,,Negara: Indonesia Provisi: Jabar,,,
+,,,Click check box,,,,,,
+,,,click button next step,,,,,,
+TC_03,"Semua data yang dimasukan sudah sesuai dengan ketentuan, kecuali phone number",Jika Phone numberl yang dimasukan tidak sesuai dengan ketentuan akan memunculkan allert box,Masukan nama depan dan belakang,User di halaman Register,Negative,"nama depan:""Vincent"" Nama belakang ""Jonathan Budiman""",Memunculkan Allert,As expected,Passed
+,,,Masukan email,,,Email:vinbud777@gmail.com,,,
+,,,Masukan password,,,Password:Vincent123@,,,
+,,,Masukan company name,,,Company: UMN,,,
+,,,masukan nomor telpon yang salah,,,Nomor Telpon: 22,,,
+,,,Masukan negara dan provinsi,,,Negara: Indonesia Provisi: Jabar,,,
+,,,Click check box,,,,,,
+,,,click button next step,,,,,,
+TC_04,"Semua data yang dimasukan sudah sesuai dengan ketentuan, kecuali password",Jika password yang dimasukan tidak sesuai dengan ketentuan akan memunculkan allert box,Masukan nama depan dan belakang,User di halaman Register,Negative,"nama depan:""Vincent"" Nama belakang ""Jonathan Budiman""",Memunculkan Allert,As expected,Passed
+,,,Masukan email,,,Email:vinbud777@gmail.com,,,
+,,,Masukan password yang salah,,,Password:2,,,
+,,,Masukan company name,,,Company: UMN,,,
+,,,masukan nomor telpon,,,Nomor Telpon: 085966395855,,,
+,,,Masukan negara dan provinsi,,,Negara: Indonesia Provisi: Jabar,,,
+,,,Click check box,,,,,,
+,,,click button next step,,,,,,

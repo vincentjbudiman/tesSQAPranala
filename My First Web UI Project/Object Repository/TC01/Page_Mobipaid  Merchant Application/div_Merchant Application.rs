@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Merchant Application</name>
+   <tag></tag>
+   <elementGuidId>7bc48f81-883d-4f06-bd0e-f2d749c7ad2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/section/div/div/div/section/header/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mrgn-bot-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3391d655-565f-4ad1-8f84-e66ff52bfcb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mrgn-bot-xs</value>
+      <webElementGuid>2398ec11-2da3-49e6-8f26-ea4a7de45fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Merchant Application                                                                        </value>
+      <webElementGuid>14eb9913-9f8c-482c-959a-a34efafddf49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/section[@class=&quot;wrapper&quot;]/div[@class=&quot;row row-padding&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form&quot;]/section[@class=&quot;panel panel-apply panel-1&quot;]/header[@class=&quot;panel-heading panel-padding&quot;]/div[@class=&quot;mrgn-bot-xs&quot;]</value>
+      <webElementGuid>537d4529-2fb0-4262-a58e-5df1f5b767a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/section/div/div/div/section/header/div</value>
+      <webElementGuid>e751146c-c5ac-4d71-be74-54888a71c5dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/section/header/div</value>
+      <webElementGuid>bb446032-1795-47a4-b99b-6fbbdc2a61a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Merchant Application                                                                        ' or . = 'Merchant Application                                                                        ')]</value>
+      <webElementGuid>1209b0a1-1e4d-403b-aaba-33d12d8c1311</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

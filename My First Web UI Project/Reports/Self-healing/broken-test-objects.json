@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_ruparupa Solusi Kebutuhan Rumah Terlen_7cb821/input_name",
+      "brokenLocator": "//input[@id\u003d\u0027name\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_ruparupa Solusi Kebutuhan Rumah Terlen_7cb821/input_name_position.png"
+    }
+  ]
+}
